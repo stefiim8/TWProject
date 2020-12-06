@@ -18,14 +18,14 @@ session_start();
            <?php
             require 'header.php';
            ?>
-           <div id="bannerImage">
+           <div id="bannerImage" >
                <div class="container">
                    <center>
                    <div id="bannerContent">
                        <h1>The best alcohol/tabacco shop.</h1>
                        <h3>Choose your products here!</h3>
                        <br>
-                       <a href="#" class="btn btn-danger">Shop Now</a>
+                       <a href="#shop" class="btn btn-danger">Shop Now</a>
                    </div>
                    </center>
                </div>
@@ -34,20 +34,20 @@ session_start();
                <div class="row">
                    <div class="col-xs-4">
                        <div  class="thumbnail">
-                           <a href="#">
-                                <img src="img/cs.png" alt="">
+                           <a href="wine.php">
+                                <img src="img/Wine/Moet_&_Chandon_Imperial_Brut_Champagne.jpeg" alt="">
                            </a>
                            <center>
                                 <div class="caption">
-                                        <p id="autoResize">Liquor</p>
+                                        <p id="autoResize">Wine</p>
                                 </div>
                            </center>
                        </div>
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="#">
-                               <img src="img/cs.png" alt="">
+                           <a href="whiskey.php">
+                               <img src="img/Whiskey/Jack_Daniel's_Old_No7_Tennessee_Whiskey.jpeg" alt="" id="shop">
                            </a>
                            <center>
                                 <div class="caption">
@@ -58,8 +58,8 @@ session_start();
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="#">
-                               <img src="img/cs.png" alt="">
+                           <a href="vodka.php">
+                               <img src="img/Vodka/Absolut_Vodka.jpeg" alt="">
                            </a>
                            <center>
                                <div class="caption">
@@ -70,8 +70,8 @@ session_start();
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="#">
-                               <img src="img/cs.png" alt="">
+                           <a href="gin.php">
+                               <img src="img/Gin/Hendrick's_Gin.jpeg" alt="">
                            </a>
                            <center>
                                <div class="caption">
@@ -82,20 +82,20 @@ session_start();
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="#">
-                               <img src="img/cs.png" alt="">
+                           <a href="rum.php">
+                               <img src="img/Rum/captain-morgan-original-spiced-rum.jpeg" alt="">
                            </a>
                            <center>
                                <div class="caption">
-                                   <p id="autoResize">Tequila</p>
+                                   <p id="autoResize">Rum</p>
                                </div>
                            </center>
                        </div>
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="#">
-                               <img src="img/cs.png" alt="">
+                           <a href="tabacco.php">
+                               <img src="img/Tabacco/forindex.jpg" alt="">
                            </a>
                            <center>
                                <div class="caption">
