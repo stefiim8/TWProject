@@ -22,14 +22,14 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to Empty Bottle Liqor Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>We have the best products for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=1">
                                 <img src="img/wine/Apothic_Red.jpeg" alt="">
                             </a>
                             <center>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=2">
                                 <img src="img/Wine/Apothic_Rose.jpg" alt="">
                             </a>
                             <center>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=3">
                                 <img src="img/Wine/Bolla_Chianti.jpeg" alt="">
                             </a>
                             <center>
@@ -111,7 +111,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=4">
                                 <img src="img/Wine/Cavit_Pinot_Grigio.jpeg" alt="">
                             </a>
                             <center>
@@ -140,7 +140,7 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=5">
                                 <img src="img/Wine/Chateau_Ste_Michelle_Sauvignon_Blanc.jpeg" alt="">
                             </a>
                             <center>
@@ -167,7 +167,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=6">
                                 <img src="img/Wine/La_Vieille_Ferme_Rouge.jpeg" alt="">
                             </a>
                             <center>
@@ -194,7 +194,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=7">
                                 <img src="img/Wine/Josh_Cellars_Cabernet_Sauvignon.jpeg" alt="">
                             </a>
                             <center>
@@ -221,7 +221,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=8">
                                 <img src="img/Wine/Josh_Cellars_Chardonnay.jpeg" alt="">
                             </a>
                             <center>
@@ -250,7 +250,7 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=9">
                                 <img src="img/Wine/Kim_Crawford_Sauvignon_Blanc.jpeg" alt="">
                             </a>
                             <center>
@@ -277,7 +277,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=10">
                                 <img src="img/Wine/La_Vieille_Ferme_Rose.jpeg" alt="">
                             </a>
                             <center>
@@ -304,7 +304,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=11">
                                 <img src="img/Wine/Moet_&_Chandon_Imperial_Brut_Champagne.jpeg" alt="">
                             </a>
                             <center>
@@ -331,7 +331,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=16">
                                 <img src="img/Wine/Whispering_Angel_Rose.jpeg" alt="">
                             </a>
                             <center>
@@ -358,7 +358,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=13">
                                 <img src="img/Wine/Dark_Horse_Pinot_Noir.jpeg" alt="">
                             </a>
                             <center>
@@ -386,7 +386,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=14">
                                 <img src="img/Wine/Josh_Cellars_Rose.jpeg" alt="">
                             </a>
                             <center>
@@ -414,7 +414,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=15">
                                 <img src="img/Wine/Meiomi_Pinot_Noir.jpeg" alt="">
                             </a>
                             <center>
@@ -442,7 +442,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=12">
                                 <img src="img/Wine/Matua_Rose.jpg" alt="">
                             </a>
                             <center>

@@ -22,14 +22,14 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to Empty Bottle Liqor Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>We have the best products for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=45">
                                 <img src="img/Whiskey/Angels_Envy.jpeg" alt="">
                             </a>
                             <center>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=46">
                                 <img src="img/Whiskey/Basil_Hayden.jpg" alt="">
                             </a>
                             <center>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=47">
                                 <img src="img/Whiskey/Blantons_Single.jpg" alt="">
                             </a>
                             <center>
@@ -113,7 +113,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=48">
                                 <img src="img/Whiskey/Buffalo_Trace.jpeg" alt="">
                             </a>
                             <center>
@@ -141,7 +141,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=49">
                                 <img src="img/Whiskey/Bulleit_Bourbon.jpeg" alt="">
                             </a>
                             <center>
@@ -169,7 +169,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=50">
                                 <img src="img/Whiskey/Elijah_Craig.jpg" alt="">
                             </a>
                             <center>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=51">
                                 <img src="img/Whiskey/Evan_Williams.jpg" alt="">
                             </a>
                             <center>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=52">
                                 <img src="img/Whiskey/Four_Roses.jpeg" alt="">
                             </a>
                             <center>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=53">
                                 <img src="img/Whiskey/High_West.jpeg" alt="">
                             </a>
                             <center>
@@ -281,7 +281,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=54">
                                 <img src="img/Whiskey/Jack_Daniel's_Old_No7_Tennessee_Whiskey.jpeg" alt="">
                             </a>
                             <center>
@@ -309,7 +309,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=55">
                                 <img src="img/Whiskey/Jim_Bean.jpeg" alt="">
                             </a>
                             <center>
@@ -337,7 +337,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=56">
                                 <img src="img/Whiskey/Knob_Creek.jpg" alt="">
                             </a>
                             <center>
@@ -365,7 +365,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=57">
                                 <img src="img/Whiskey/Legent_Bourbon.jpeg" alt="">
                             </a>
                             <center>
@@ -393,7 +393,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=58">
                                 <img src="img/Whiskey/Makers_Mark.jpg" alt="">
                             </a>
                             <center>
@@ -421,7 +421,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=59">
                                 <img src="img/Whiskey/Wild_Turkey.jpg" alt="">
                             </a>
                             <center>
@@ -449,7 +449,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=60">
                                 <img src="img/Whiskey/Woodford_Reserve.jpg" alt="">
                             </a>
                             <center>

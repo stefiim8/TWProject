@@ -22,14 +22,14 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to Empty Bottle Liqor Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>We have the best products for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=61">
                                 <img src="img/Vodka/Absolut_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=62">
                                 <img src="img/Vodka/Amsterdam_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -84,7 +84,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=63">
                                 <img src="img/Vodka/Belvedere_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -111,7 +111,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=64">
                                 <img src="img/Vodka/Ciroc_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -138,7 +138,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=65">
                                 <img src="img/Vodka/Eddy_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -165,7 +165,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=66">
                                 <img src="img/Vodka/Georgi_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -192,7 +192,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=67">
                                 <img src="img/Vodka/Grey_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -219,7 +219,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=68">
                                 <img src="img/Vodka/Ketel_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -246,7 +246,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=69">
                                 <img src="img/Vodka/Pinnacle_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -273,7 +273,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=70">
                                 <img src="img/Vodka/Platinum_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -300,7 +300,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=71">
                                 <img src="img/Vodka/Skyy_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -327,7 +327,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=72">
                                 <img src="img/Vodka/Smirnoff_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -354,7 +354,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=73">
                                 <img src="img/Vodka/Stoli_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -381,7 +381,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=74">
                                 <img src="img/Vodka/Svedka_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -408,7 +408,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=75">
                                 <img src="img/Vodka/Taaka_Vodka.jpeg" alt="">
                             </a>
                             <center>
@@ -435,7 +435,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=76">
                                 <img src="img/Vodka/Tito_Vodka.jpeg" alt="">
                             </a>
                             <center>

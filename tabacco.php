@@ -22,14 +22,14 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to Empty Bottle Liqor Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>We have the best products for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=29">
                                 <img src="img/Tabacco/cohiba-white-tigarete.jpg" alt="">
                             </a>
                             <center>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=30">
                                 <img src="img/Tabacco/tigarete-cigaronne-black-royal-slims-triple-hollow-filter.jpg" alt="">
                             </a>
                             <center>
@@ -84,7 +84,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=31">
                                 <img src="img/Tabacco/tigarete-davidoff-classic.jpg" alt="">
                             </a>
                             <center>
@@ -111,7 +111,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=32">
                                 <img src="img/Tabacco/tigarete-davidoff-reach-blue.jpg" alt="">
                             </a>
                             <center>
@@ -138,7 +138,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=33">
                                 <img src="img/Tabacco/tigarete-davidoff-shape-evolved-blue.jpg" alt="">
                             </a>
                             <center>
@@ -165,7 +165,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=34">
                                 <img src="img/Tabacco/tigarete-davidoff-silver.jpg" alt="">
                             </a>
                             <center>
@@ -192,7 +192,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=35">
                                 <img src="img/Tabacco/tigarete-davidoff-slim-silver-.jpg" alt="">
                             </a>
                             <center>
@@ -219,7 +219,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=36">
                                 <img src="img/Tabacco/tigarete-davidoff-superslim-rose.jpg" alt="">
                             </a>
                             <center>
@@ -246,7 +246,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=37">
                                 <img src="img/Tabacco/tigari-brass-red-100's.jpg" alt="">
                             </a>
                             <center>
@@ -273,7 +273,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=38">
                                 <img src="img/Tabacco/tigari-davidoff-classic-slim-sl-line.jpg" alt="">
                             </a>
                             <center>
@@ -300,7 +300,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=39">
                                 <img src="img/Tabacco/tigari-davidoff-gold.jpg" alt="">
                             </a>
                             <center>
@@ -327,7 +327,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=40">
                                 <img src="img/Tabacco/tigari-davidoff-reach-silver.jpg" alt="">
                             </a>
                             <center>
@@ -354,7 +354,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=41">
                                 <img src="img/Tabacco/tigari-davidoff-shape-evolved-red.jpg" alt="">
                             </a>
                             <center>
@@ -381,7 +381,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=42">
                                 <img src="img/Tabacco/tigari-davidoff-slim-gold.jpg" alt="">
                             </a>
                             <center>
@@ -408,7 +408,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=43">
                                 <img src="img/Tabacco/tigari-davidoff-super-slim-magenta.jpg" alt="">
                             </a>
                             <center>
@@ -435,7 +435,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=44">
                                 <img src="img/Tabacco/tigari-king-original-red-100's.jpg" alt="">
                             </a>
                             <center>

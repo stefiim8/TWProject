@@ -22,14 +22,14 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to Empty Bottle Liqor Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>We have the best products for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=77">
                                 <img src="img/Gin/Amsterdam_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=78">
                                 <img src="img/Gin/Aviation_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -84,7 +84,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=79">
                                 <img src="img/Gin/Beefeater_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -111,7 +111,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=80">
                                 <img src="img/Gin/Bombay_Sapphire.jpeg" alt="">
                             </a>
                             <center>
@@ -138,7 +138,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=81">
                                 <img src="img/Gin/Botanist_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -165,7 +165,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=82">
                                 <img src="img/Gin/Empress_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -192,7 +192,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=83">
                                 <img src="img/Gin/Fords_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -219,7 +219,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=84">
                                 <img src="img/Gin/George_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -246,7 +246,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=85">
                                 <img src="img/Gin/Gordon_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -273,7 +273,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=86">
                                 <img src="img/Gin/Hendrick's_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -300,7 +300,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=87">
                                 <img src="img/Gin/Monkey_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -327,7 +327,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=88">
                                 <img src="img/Gin/Plymouth_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -354,7 +354,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=89">
                                 <img src="img/Gin/Roku_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -381,7 +381,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=90">
                                 <img src="img/Gin/Seagram_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -408,7 +408,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=91">
                                 <img src="img/Gin/Sipsmith_Gin.jpeg" alt="">
                             </a>
                             <center>
@@ -435,7 +435,7 @@
                         </div>
                     </div><div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=92">
                                 <img src="img/Gin/Tanqueray_Gin.jpeg" alt="">
                             </a>
                             <center>

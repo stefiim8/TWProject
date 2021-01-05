@@ -22,14 +22,14 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to Empty Bottle Liqor Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>We have the best products for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=17">
                                 <img src="img/Rum/bacardi-black-rum.jpg" alt="">
                             </a>
                             <center>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=18">
                                 <img src="img/Rum/bacardi-gold-rum.jpeg" alt="">
                             </a>
                             <center>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=19">
                                 <img src="img/Rum/bacardi-limon.jpeg" alt="">
                             </a>
                             <center>
@@ -113,7 +113,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=20">
                                 <img src="img/Rum/bacardi-superior-rum.jpeg" alt="">
                             </a>
                             <center>
@@ -141,7 +141,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=21">
                                 <img src="img/Rum/captain-morgan-original-spiced-rum.jpeg" alt="">
                             </a>
                             <center>
@@ -169,7 +169,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=22">
                                 <img src="img/Rum/diplomatico-rum-reserva-exclusiva.jpg" alt="">
                             </a>
                             <center>
@@ -197,7 +197,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=23">
                                 <img src="img/Rum/flor-de-cana-centenario-12-year-gold-rum.jpeg" alt="">
                             </a>
                             <center>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=24">
                                 <img src="img/Rum/goslings-black-seal-rum.jpeg" alt="">
                             </a>
                             <center>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=25">
                                 <img src="img/Rum/malibu-original-coconut-rum.jpeg" alt="">
                             </a>
                             <center>
@@ -281,7 +281,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=26">
                                 <img src="img/Rum/ron-zacapa-centenario-23-year.jpeg" alt="">
                             </a>
                             <center>
@@ -309,7 +309,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=27">
                                 <img src="img/Rum/sailor-jerry-spiced-rum.jpg" alt="">
                             </a>
                             <center>
@@ -337,7 +337,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
-                            <a href="cart.php">
+                            <a href="product.php?id=28">
                                 <img src="img/Rum/the-kraken-black-spiced-rum.jpeg" alt="">
                             </a>
                             <center>
